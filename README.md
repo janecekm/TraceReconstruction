@@ -13,6 +13,4 @@ Dataset | Publication | Data
 The sequence datasets created using these sources are all found in the `Datasets` folder. 
 
 ## Training and Evaluation
-The code used to train and evaluate the $`SSSD^{S4}`$, $`SSSD^{SA}`$, $`CSDI^{S4}`$, and DiffWave models can be found at [this GitHub repo](https://github.com/AI4HealthUOL/SSSD). The trained models are found in the `Models` folder. The results obtained using these models using different sequences lengths (50, 100, 150, 200) and blackout sizes (1, 5, 10, 20, 30, 40) are found in the `Results` folder.
-
-The code used to train and evaluate the LSTM baseline is in the `LSTM` folder. 
+The code used to train and evaluate the $`SSSD^{S4}`$, $`SSSD^{SA}`$, $`CSDI^{S4}`$, and DiffWave models can be found at [this GitHub repo](https://github.com/AI4HealthUOL/SSSD). The results obtained using these models using different sequences lengths (50, 100, 150, 200) and blackout sizes (1, 5, 10, 20, 30, 40) are found in the `Results` folder.
